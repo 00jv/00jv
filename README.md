@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?00jv)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
