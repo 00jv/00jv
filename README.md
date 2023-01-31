@@ -17,6 +17,8 @@
 <p align="left">
 </p>
 
+<a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=ecq" width="400" alt="joão victor's Dev Card"/></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv)](https://github.com/anuraghazra/github-readme-stats)
 
 
