@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SergipeTec**
 
-- 🌱 I’m currently learning **analysis and systems developmen**
+- 🌱 I’m currently learning **analysis and systems development**
 
 - 👯 I’m looking to collaborate on **For health department projects**
 
