@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **jvmatosfagundes@gmail.com**
 
+<h3 align="left">My Trophies :)</h3>
+<p align="left">
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">commits made by me:</h3>
