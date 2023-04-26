@@ -25,14 +25,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=00jv&theme=tokyonight)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight))
 
 
 <h3 align="left">Languages I use the most:</h3>
 <p align="left">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
