@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=00jv&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=00jv&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&bg_color=00000000)
 
