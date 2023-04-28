@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-https://github-profile-trophy.vercel.app/?username=00jv&theme=dracula
+[![trophy]https://github-profile-trophy.vercel.app/?username=00jv&theme=dracula
 
 <h3 align="left">commits made by me:</h3>
 <p align="left">
