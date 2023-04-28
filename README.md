@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **jvmatosfagundes@gmail.com**
 
+<h1 align="center">My Skills</h1>
 ![giphy](https://user-images.githubusercontent.com/88150795/235212910-3674d44b-437e-4e65-9d44-8ff3d2818cbe.gif)
 
 
