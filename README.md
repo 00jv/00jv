@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=00jv&theme=dracula
 
 <h3 align="left">commits made by me:</h3>
 <p align="left">
