@@ -15,9 +15,9 @@
 
 <h3 align="center">My Main Skills </h3>
 <div>
-    
+    <i class="devicon-- ">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
-                 
+    </i>             
 </div>
 
 
