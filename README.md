@@ -27,7 +27,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=00jv&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=00jv&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Languages I use the most:</h3>
 <p align="left">
