@@ -1,3 +1,6 @@
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+
+
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">I'm a full-stack developer in Brazil</h3>
 
