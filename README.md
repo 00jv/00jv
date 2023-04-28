@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **jvmatosfagundes@gmail.com**
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![giphy](https://user-images.githubusercontent.com/88150795/235212910-3674d44b-437e-4e65-9d44-8ff3d2818cbe.gif)
+
 
 <h3 align="left">My Trophies :)</h3>
 <p align="left">
