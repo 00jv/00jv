@@ -44,18 +44,10 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h3 align="left">Languages and Tools:</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Langs"/>
-    </a>
-  </div>
-  
-  <div style="flex: 1; margin-left: 10px;">
-    <h3 align="left">Dev Card:</h3>
-    <a href="https://app.daily.dev/00jv">
-      <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card"/>
-    </a>
-  </div>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Dev Card:</h3>
+
+<a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card"/></a>
