@@ -45,6 +45,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Dev Card:</h3>
