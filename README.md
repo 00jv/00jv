@@ -21,7 +21,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=00jv&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="left"> Songs :eyeglasses: </h3>
+<h3 align="left"> Songs 🎧</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true)
 
