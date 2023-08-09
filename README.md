@@ -26,8 +26,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true)
 
 <h3 align="left">commits made by me:</h3>
-<p align="left">
-</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight)
 
@@ -46,14 +44,8 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-<p align="left">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h3 align="left">Languages and Tools:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Dev Card:</h3>
 <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=wl5" width="400" alt="joão victor's Dev Card"/></a>
