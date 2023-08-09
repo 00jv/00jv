@@ -1,4 +1,4 @@
-<h3 align="center">I'm a full-stack developer in Brazil</h3>
+<h3 align="center">Hi 👋, I'm João Victor</h3>
 
 <h3 align="center">I'm a full-stack developer in Brazil</h3>
 
