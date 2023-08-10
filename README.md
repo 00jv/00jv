@@ -30,6 +30,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Languages I use the most:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -44,9 +47,6 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Dev Card:</h3>
 
