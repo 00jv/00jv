@@ -31,7 +31,6 @@
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
             </a>
-</div>
     <h3>Languages and Tools:</h3>
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
@@ -50,4 +49,5 @@
     <a href="https://app.daily.dev/00jv">
         <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card" />
     </a>
-</div>
+    </div>
+
