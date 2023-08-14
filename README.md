@@ -23,14 +23,20 @@
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
     </a>
+   <div align="center">
+    <h3>Songs 🎧</h3>
     <h3>Commits made by me:</h3>
     <p>
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+        </a>
         <img src="https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </p>
     <h3>Languages I use the most:</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
     </a>
+</div>
     <h3>Languages and Tools:</h3>
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
