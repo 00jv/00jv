@@ -1,12 +1,9 @@
 <div align="center">
-
     <h1>
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Victor" alt="Typing SVG" />
         </a>
     </h1>
-
-
     <h3>I'm a full-stack developer in Brazil</h3>
     <ul>
         <li>🔭 I’m currently working on <strong>SergipeTec</strong></li>
@@ -53,4 +50,3 @@
         <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card" />
     </a>
 </div>
-
