@@ -13,7 +13,11 @@
         <li>📫 How to reach me <strong>jvmatosfagundes@gmail.com</strong></li>
     </ul>
     </div>
-    <h3>My Trophies :)</h3>
+<h3>GameCard :video_game:</h3>
+    <p>
+        [URL=https://www.exophase.com/user/Jv00k7/][IMG]https://card.exophase.com/2/0/233225.png?1695032168[/IMG][/URL]
+    </p>
+    <h3>My Trophies :trophy:</h3>
     <p>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=00jv&theme=tokyonight" alt="GitHub Trophies" />
