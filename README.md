@@ -27,15 +27,15 @@
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true">
                 <img src="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
        </a>
-         <h3>Commits made by me:</h3>
+         <h3>Commits made by me :chart_with_upwards_trend:</h3>
             <p>
                 <img src="https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
             </p>
-            <h3>Languages I use the most:</h3>
+            <h3>Languages I use the most  🚀</h3>
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
             </a>
-    <h3>Languages and Tools:</h3>
+    <h3>Languages and Tools 🗃️</h3>
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -49,7 +49,7 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
     </div>
-    <h3>Dev Card:</h3>
+    <h3>Dev Card 🃏</h3>
     <a href="https://app.daily.dev/00jv">
         <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card" />
     </a>
