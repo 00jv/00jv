@@ -15,7 +15,7 @@
     </div>
 <h3>GameCard :video_game:</h3>
     <p>
-        [URL=https://www.exophase.com/user/Jv00k7/][IMG]https://card.exophase.com/2/0/233225.png?1695032168[/IMG][/URL]
+       <a href="https://www.exophase.com/user/Jv00k7/"><img src="https://card.exophase.com/2/0/233225.png?1695032168"></a>
     </p>
     <h3>My Trophies :trophy:</h3>
     <p>
