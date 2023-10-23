@@ -13,7 +13,6 @@
         <li>📫 How to reach me <strong>jvmatosfagundes@gmail.com</strong></li>
     </ul>
     </div>
-
     <h3>My Trophies :trophy:</h3>
     <p>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
