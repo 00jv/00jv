@@ -50,5 +50,5 @@
     <a href="https://app.daily.dev/00jv">
         <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card" />
     </a>
-    </div>
+  </div>
 
