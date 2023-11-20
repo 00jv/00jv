@@ -1,7 +1,7 @@
 <div align="center">
-    <h1 align="center">
+    <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Graduated+in+systems+analysis+and+development;Systems+development+technician" alt="Typing SVG" /></a>
-    </h1>
+    </div>
     <div align="left">
     <h3>I'm a full-stack developer in Brazil</h3>
     <ul>
