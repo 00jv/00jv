@@ -23,6 +23,7 @@
 <h3>WakaTime 🕰️</h3>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=00jv&theme=tokyonight&layout=compact" alt="WakaTime" />
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=00jv)](https://github.com/anuraghazra/github-readme-stats)
 </p>
        <h3>Songs 🎧</h3>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true">
