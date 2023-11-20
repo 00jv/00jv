@@ -19,6 +19,11 @@
             <img src="https://github-profile-trophy.vercel.app/?username=00jv&theme=tokyonight" alt="GitHub Trophies" />
         </a>
     </p>
+
+<h3>WakaTime 🕰️</h3>
+<p>
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=00jv&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
        <h3>Songs 🎧</h3>
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&redirect=true">
                 <img src="https://spotify-github-profile.vercel.app/api/view?uid=iuapen7v6t11l8th8nh81pckp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
