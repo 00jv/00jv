@@ -42,8 +42,6 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
     </div>
     <h3>Dev Card 🃏</h3>
-    <a href="https://app.daily.dev/00jv">
-        <img src="https://api.daily.dev/devcards/4021045d3e5041d7a269bfa1638a4425.png?r=icy" width="400" alt="joão victor's Dev Card" />
-    </a>
+     <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?r=qep&type=wide" width="652" alt="joão victor's Dev Card"/></a>
   </div>
 
