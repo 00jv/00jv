@@ -32,6 +32,9 @@ jobs:
       - name: Move files to root directory
         run: mv dist/* .
 
+      - name: Clean up repository (optional)
+        run: git stash --all || true
+
       - name: Commit generated snake files
         run: |
           git config --local user.email "action@github.com"
