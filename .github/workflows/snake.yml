@@ -29,11 +29,16 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Move files to root directory
-        run: mv dist/* .
+      - name: Change file permissions
+        run: chmod -R u+w dist/
 
-      - name: Clean up repository (optional)
-        run: git stash --all || true
+      - name: Move files to a temporary directory
+        run: |
+          mkdir -p temp-dir
+          mv dist/* temp-dir/
+
+      - name: Move files to root directory
+        run: mv temp-dir/* .
 
       - name: Commit generated snake files
         run: |
