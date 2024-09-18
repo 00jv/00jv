@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Permissões de gravação configuradas no nível correto
+  contents: write  # Permissão de gravação para commitar no repositório
 
 jobs:
   build:
@@ -29,8 +29,13 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Upload snake.svg
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-graph
-          path: dist/
+      - name: Move files to root directory
+        run: mv dist/* .
+
+      - name: Commit generated snake files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add generated snake files"
+          git push
