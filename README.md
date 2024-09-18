@@ -44,6 +44,6 @@
     <h3>Dev Card 🃏</h3>
     <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?type=default&r=reo" width="356" alt="joão victor's Dev Card"/></a>
 
-    ![snake gif](https://github.com/00jv/00jv/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/00jv/00jv/blob/output/github-contribution-grid-snake.svg)
   </div>
 
