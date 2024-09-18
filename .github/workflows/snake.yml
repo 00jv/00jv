@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
@@ -24,4 +24,10 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Create dist directory
-        run: mkdir -p
+        run: mkdir -p dist
+
+      - name: Upload snake.svg
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-graph
+          path: dist/
