@@ -23,11 +23,11 @@
             <p>
                 <img src="https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
             </p>
-            <h3>Languages I use the most  🚀</h3>
+            <h3>Tech Stack I use the most  🚀</h3>
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
             </a>
-    <h3>Languages and Tools 🗃️</h3>
+    <h3>Tech Stacks and Tools 🗃️</h3>
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
