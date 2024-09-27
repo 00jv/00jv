@@ -45,7 +45,8 @@
     <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?type=default&r=reo" width="356" alt="joão victor's Dev Card"/></a>
 
 <h3>✍️Random Dev Quote</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 <div>
