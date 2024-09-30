@@ -20,20 +20,22 @@
         </a>
     </p>
     <div>   
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <h3>Commits made by me :chart_with_upwards_trend:</h3>
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-        </p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <h3>Tech Stack I use the most 🚀</h3>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
-        </a>
-    </div>
-</div>
+ <table>
+  <tr>
+    <td>
+      <h3>Commits made by me :chart_with_upwards_trend:</h3>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=00jv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </p>
+    </td>
+    <td>
+      <h3>Tech Stack I use the most 🚀</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jv&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
     <h3>Tech Stacks and Tools 🗃️</h3>
     <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
