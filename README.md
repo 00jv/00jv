@@ -51,7 +51,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
     </div>
     <h3>Dev Card 🃏</h3>
-    <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?type=default&r=reo" width="356" alt="joão victor's Dev Card"/></a>
+    <a href="https://app.daily.dev/00jv"><img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?type=wide&r=ael" width="652" alt="joão victor's Dev Card"/></a>
 
 <h3>✍️Random Dev Quote</h3>
 
