@@ -8,7 +8,7 @@
         <li>🔭 I’m currently working on <strong>SergipeTec</strong></li>
         <li>🌱 I’m currently learning <strong>analysis and systems development</strong></li>
         <li>👯 I’m looking to collaborate on <strong>For health department projects</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fagundes-de-matos-1b5aba205/">https://www.linkedin.com/in/jo%C3%A3o-victor-fagundes-de-matos-1b5aba205/</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fagundes-de-matos-1b5aba205/">João VIctor Fagundes de Matos</a></li>
         <li>💬 Ask me about <strong>react, react native, javascript, typescript, java</strong></li>
         <li>📫 How to reach me <strong>jvmatosfagundes@gmail.com</strong></li>
     </ul>
