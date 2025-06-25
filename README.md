@@ -8,7 +8,7 @@
     <div align="left">
     <h3>I'm a full-stack developer in Brazil</h3>
     <ul>
-        <li>🔭 I’m currently working on <strong>SergipeTec</strong></li>
+        <li>🔭 I’m currently working on <strong>Inovatec-JP</strong></li>
         <li>🌱 I’m currently learning <strong>analysis and systems development</strong></li>
         <li>👯 I’m looking to collaborate on <strong>For health department projects</strong></li>
         <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-fagundes-de-matos-1b5aba205/">João VIctor Fagundes de Matos</a></li>
