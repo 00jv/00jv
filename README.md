@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="./img/Designer.jpeg" alt="Banner" />
+    <img src="./img/Designer.jpeg" alt="Banner" width="100%" />
 </div>
 
 <h3>I'm a full-stack developer in Brazil</h3>
@@ -19,11 +19,11 @@
 </ul>
 
 <h3 align="center">My Trophies 🏆</h3>
-<p align="center">
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=00jv&theme=tokyonight" alt="GitHub Trophies" />
     </a>
-</p>
+</div>
 
 <div align="center">
     <table>
@@ -43,28 +43,18 @@
 </div>
 
 <h3 align="center">Tech Stacks and Tools 🗃️</h3>
-<p align="center">
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65" />
-</p>
+<div align="center">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" height="50" />&nbsp;<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="50" height="50" />
+</div>
 
 <h3 align="center">Dev Card 🃏</h3>
-<p align="center">
+<div align="center">
     <a href="https://app.daily.dev/00jv">
         <img src="https://api.daily.dev/devcards/v2/Pp6UgEH2HfdOL9stcNvwW.png?type=wide&r=ael" width="652" alt="João Victor's Dev Card"/>
     </a>
-</p>
+</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
-<p align="center">
+<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+</div>
